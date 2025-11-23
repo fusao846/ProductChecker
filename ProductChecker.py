@@ -28,6 +28,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from common.Grids import CustomGrid, GRIDS as gr
 from common.Log import Log
 
+import Version
+
 import common.Loewe
 import common.Prada
 
@@ -35,10 +37,8 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-VERSION = "v1.2"
-# 1.00  2025/06/16 Prototype
-# 1.10  2025/08/10 PRADA
-# 1.20  2025/09/08 PRADA Parse Modify
+VERSION = Version.VERSION
+
 class SITE_ITEM:
     DISPLAY_NAME = 0
     URL = 1
