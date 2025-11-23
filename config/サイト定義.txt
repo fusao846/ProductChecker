@@ -1,0 +1,4 @@
+表示名,URL,フォルダ名,シート名,処理ファイル名,商品名プレフィックス,画像サイズ
+LOEWE Woman,https://www.loewe.com/jap/ja/loewe-x-on/women/,Loewe,ロエベ,Loewe,LOE,0
+PRADA,https://www.prada.com/jp/ja/womens/bags/shoulder-bags/c/10066JP,Prada,PRADA,ScrapeCommon,PRA,0
+PRADA2,https://www.prada.com/jp/ja/womens/small-leather-goods/large-wallets/c/10342JP,Prada0906,PRADA,ScrapeCommon,PRA,0
